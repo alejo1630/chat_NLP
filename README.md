@@ -60,4 +60,4 @@ The chat history was parsed and cleaned to extract valid dialogue turns, excludi
 
 ## 🧾 Conclusion
 
-This project demonstrates the feasibility of training a neural chatbot from personal chat history using classical seq2seq architecture. It showcases end-to-end pipeline development — from data wrangling and preprocessing to model training and interactive inference — making it a strong baseline for personalized chatbot applications. While the current implementation is basic, it provides a solid foundation for further experimentation and real-world deployment.
+This project demonstrates the feasibility of training a neural chatbot from personal chat history using classical seq2seq architecture. It showcases end-to-end pipeline development, from data wrangling and preprocessing to model training and interactive inference, making it a strong baseline for personalized chatbot applications. While the current implementation is basic, it provides a solid foundation for further experimentation and real-world deployment.
