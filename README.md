@@ -43,7 +43,7 @@ The chat history was parsed and cleaned to extract valid dialogue turns, excludi
 
 - Model trained for 5 epochs with the limited configuration above.
 - Final **validation perplexity**: ~98.76.
-- Although accuracy metrics are low (due to the nature of free-form language generation), the model is able to generate plausible, stylistically aligned responses.
+- Although accuracy metrics are low (due to the nature of free-form language generation and architecture structure), the model is able to generate plausible, stylistically aligned responses.
 - Example:
   ```
   Input: Hola
